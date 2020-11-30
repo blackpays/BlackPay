@@ -67,5 +67,3 @@ https://api.blackpay.space/api.php/status?public_key=qVFZRhNb08Mo8Q5N1WbC&id=aip
 {"amount":"100","state":"PAID","error":false}
 ```
 
-## Вывод средств с кассы
-
