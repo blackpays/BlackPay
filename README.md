@@ -35,7 +35,7 @@ https://api.blackpay.space/api.php/generate?public_key=qVFZRhNb08Mo8Q5N1WbC&amou
 
 `JSON` Ответ:
 ```json
-{"id":"aipoTpOTkS","url":"https:\/\/pay.blackpay.space\/?id=aipoTpOTkS","error":false}
+{"id":"EGCUnJXPrG","url":"https:\/\/pay.blackpay.space\/?order=EGCUnJXPrG","error":false}
 ```
 
 ## Получение статуса оплаты
