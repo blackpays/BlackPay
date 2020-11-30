@@ -14,7 +14,7 @@
 
 | Параметр |     Описание     |
 |:--------:|------------------|
-|public_key| Публичный ключь  |
+|public_key| Публичный ключ   |
 
 `GET` Пример запроса:
 
@@ -31,7 +31,7 @@ https://api.blackpay.space/api.php/balance?public_key=qVFZRhNb08Mo8Q5N1WbC
 
 | Параметр |     Описание     |
 |:--------:|------------------|
-|public_key| Публичный ключь  |
+|public_key| Публичный ключ   |
 |  amount  | Сумма в рублях   |
 
 `GET` Пример запроса:
@@ -49,7 +49,7 @@ https://api.blackpay.space/api.php/generate?public_key=qVFZRhNb08Mo8Q5N1WbC&amou
 
 | Параметр |     Описание     |
 |:--------:|------------------|
-|public_key| Публичный ключь  |
+|public_key| Публичный ключ   |
 |    id    |   id платежа     |
 
 `GET` Пример запроса:
